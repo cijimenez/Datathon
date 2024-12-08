@@ -1,12 +1,10 @@
 # Impulsa la Rentabilidad y Eficiencia mediante Nuestra Solución Analítica
 
 ![Solución Analítica](images/logo.png)
-<img src="images/logo.png" alt="Solución Analítica" width="200" height="200">
 
+En un entorno financiero altamente competitivo, la capacidad de tomar decisiones informadas y basadas en datos es crucial para el éxito. Nuestra solución analítica integral llamada "Carpe Diem" no solo mejora la colocación de créditos, sino que genera un valor tangible para la banca al optimizar la tasa de colocación y maximizar los ingresos. A través de análisis predictivos y prescriptivos, brindamos una ventaja competitiva para tomar decisiones rápidas y centradas en los resultados, con plena viabilidad de implementación en su infraestructura existente, garantizando una transición ágil y sostenible.
 
-En un entorno financiero altamente competitivo, la capacidad de tomar decisiones informadas y basadas en datos es crucial para el éxito. Nuestra solución analítica integral llamada "Carpe Diem" no solo mejora la colocación de créditos, sino que genera un valor tangible para Banco Guayaquil al optimizar la tasa de colocación y maximizar los ingresos. A través de análisis predictivos y prescriptivos, brindamos una ventaja competitiva para tomar decisiones rápidas y centradas en los resultados, con plena viabilidad de implementación en su infraestructura existente, garantizando una transición ágil y sostenible.
-
-## 7. Integrantes
+## Integrantes
 
 - **Henry Siavichay**: Ingeniero de Datos.
 - **Jonathan Santana**: Analista de Datos.
@@ -80,7 +78,6 @@ Un análisis realizado por la Federación Ecuatoriana de Bancos (FEB) en 2023 es
 - Asobanca. (2023). *Informe sobre la eficiencia de las campañas de colocación de créditos en Ecuador*.
 - Instituto Nacional de Estadística y Censos (INEC). (2023). *Estadísticas de inflación y desempleo en Ecuador*.
 - Fundación CORDES. (2022). *Estudio sobre la inclusión financiera en zonas rurales de Ecuador*.
-- Guayaquil Fintech. (2023). *Estudio sobre la eficiencia de las campañas de colocación de crédito en Ecuador*.
 - Federación Ecuatoriana de Bancos (FEB). (2023). *Informe sobre las pérdidas por ineficiencia en el sector bancario*.
 
 
@@ -104,8 +101,8 @@ Un análisis realizado por la Federación Ecuatoriana de Bancos (FEB) en 2023 es
 
 # Viabilidad de Implementación
 
-Nuestra solución se adapta fácilmente a los sistemas existentes del banco, asegurando una implementación rápida y sin interrupciones. La plataforma es escalable, lo que garantiza que crezca con las necesidades de Banco Guayaquil, ofreciendo resultados sostenibles y de largo plazo.
+Nuestra solución se adapta fácilmente a los sistemas existentes del banco, asegurando una implementación rápida y sin interrupciones. La plataforma es escalable, lo que garantiza que crezca con las necesidades de la banca, ofreciendo resultados sostenibles y de largo plazo.
 
 # El Futuro de la Colocación de Créditos
 
-Esta solución representa una revolución en la forma en que Banco Guayaquil puede abordar la colocación de créditos. Al integrar inteligencia artificial y análisis avanzado, no solo mejoramos la eficiencia y rentabilidad de las campañas, sino que posicionamos al banco como líder en decisiones estratégicas basadas en datos. Esta plataforma impulsará el crecimiento continuo del banco en el mercado financiero.
+Esta solución representa una revolución en la forma en que la banca puede abordar la colocación de créditos. Al integrar inteligencia artificial y análisis avanzado, no solo mejoramos la eficiencia y rentabilidad de las campañas, sino que posicionamos al banco como líder en decisiones estratégicas basadas en datos. Esta plataforma impulsará el crecimiento continuo del banco en el mercado financiero.
